@@ -2,8 +2,8 @@
 
 # clone the repo
 ```bash
-git clone https://
-
+git clone https://github.com/VictorOduorKe/python-rest-api.git
+```
 **create virtual ennvironment in your woeking folder**
 ```bash
 python3 -m venv venv_ubuntu
