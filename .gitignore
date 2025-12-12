@@ -1,0 +1,8 @@
+venv
+orders.csv
+price_distribution.png
+__pycache__/
+data/
+reports/
+product_id_distribution.png
+test.py
